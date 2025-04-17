@@ -1,6 +1,6 @@
 # GoMap - Fast Port Scanner
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/gomap)](https://goreportcard.com/report/github.com/yourusername/gomap)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Bishal-Bhandari01/gomap)](https://goreportcard.com/report/github.com/Bishal-Bhandari01/gomap)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A concurrent port scanner written in Go that performs service detection and version identification. Inspired by Nmap but built for simplicity and speed.
