@@ -3,10 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gomap/scan"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/Bishal-Bhandari01/GoMap/scan"
 )
 
 func main() {

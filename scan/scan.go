@@ -2,11 +2,12 @@ package scan
 
 import (
 	"fmt"
-	"gomap/services"
 	"net"
 	"sort"
 	"sync"
 	"time"
+
+	"github.com/Bishal-Bhandari01/GoMap/services"
 )
 
 const (
