@@ -33,11 +33,11 @@ Known limitations and issues:
 ## Installation
 
 ```bash
-# Install from GitHub
-go install github.com/yourusername/gomap@latest
+# Install via go
+go install github.com/Bishal-Bhandari01/GoMap/gomap@latest  
 
 # Or clone the repository
-git clone https://github.com/yourusername/gomap.git
+git clone https://github.com/Bishal-bhandari01/gomap.git
 cd gomap
 go build
 ```
@@ -129,7 +129,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gomap.git
+git clone https://github.com/Bishal-Bhandari01/gomap.git
 
 # Install dependencies
 go mod tidy
@@ -151,9 +151,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name - [@yourgithubhandle](https://github.com/yourgithubhandle)
+Your Name - [@yourgithubhandle](https://github.com/Bishal-Bhandari01)
 
-Project Link: [https://github.com/yourusername/gomap](https://github.com/yourusername/gomap)
+Project Link: [https://github.com/Bishal-Bhandari01/gomap](https://github.com/Bishal-Bhandari01/gomap)
 
 ---
 
