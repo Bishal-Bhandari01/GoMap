@@ -37,7 +37,7 @@ Known limitations and issues:
 go install github.com/Bishal-Bhandari01/GoMap/gomap@latest  
 
 # Or clone the repository
-git clone https://github.com/Bishal-bhandari01/gomap.git
+git clone https://github.com/Bishal-Bhandari01/gomap.git
 cd gomap
 go build
 ```
@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name - [@yourgithubhandle](https://github.com/Bishal-Bhandari01)
+Name - [@Bishal-Bhandari01](https://github.com/Bishal-Bhandari01)
 
 Project Link: [https://github.com/Bishal-Bhandari01/gomap](https://github.com/Bishal-Bhandari01/gomap)
 
